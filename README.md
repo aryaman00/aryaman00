@@ -1,5 +1,5 @@
 <h1 align='center'>  Aryaman👋</h1>
-###Computer Science student ready for responsibilities in field of Data Science and Analytics
+### Computer science student ready for responsibilities in field of Data Science and Analytics
 
 <!--
 **aryaman00/aryaman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
