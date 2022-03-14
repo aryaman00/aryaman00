@@ -1,4 +1,4 @@
-                                      ### Aryaman👋
+                                     <h1 align='center'>  Aryaman👋</h1>
                      ##Computer Science student ready for responsibilities in field of Data Science and Analytics
 
 <!--
