@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Power Bi,Tableau
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Deep Learning,Neaural Networks
-- 💬 Ask me about ...
-- 📫 How to reach me: aryaman0171@gmail.com
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with Deep Learning,Neural Networks
+- 📫 How to reach me: <a>aryaman0171@gmail.com</a>
 - ⚡ Fun fact: Data is the new oil 😁😁
 
