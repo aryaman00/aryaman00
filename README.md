@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Deep Learning,Neural Networks
 - 📫 How to reach me: <a>aryaman0171@gmail.com</a>
 - ⚡ Fun fact: Data is the new oil 😁😁
-
+- 📈 My Tableau Profile:<a src="https://public.tableau.com/app/profile/aryaman7700">Click Me</a>
