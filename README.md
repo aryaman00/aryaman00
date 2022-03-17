@@ -1,4 +1,4 @@
-<h1 align='center'>  Aryaman👋</h1>
+<h1 align='center'> Namaste I am Aryaman👋</h1>
  Computer science student ready for responsibilities in field of Data Science and Analytics 
 
 <!--
